@@ -5,9 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 /*
- * Programmer   : Colby Taylor 8466914
- * Course       : PROG2001 Web Design and Development 
- * Assignment   : A05-ASP.NET High Low Game
+ * Programmer   : Colby Taylor
  * File         : Default.aspx.cx
  * Date         : 11/15/2021
  * Description  : page 1/4 This page gathers the users name and 
