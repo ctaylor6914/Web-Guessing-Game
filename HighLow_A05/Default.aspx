@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <!--
-	Programmer: Colby Taylor 8466914
+	Programmer: Colby Taylor
 	Date: 11/15/2021
 	Description: HI Low Game - have the user select a range of numbers to guess, randomly 
 	generate a number within that range and have the user guess.  If the guessed number 
